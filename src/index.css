@@ -14,3 +14,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+@theme {
+  --color-background: #1e2128ff;
+  --color-light-background: #262a33ff;
+  --color-primary: #374472ff;
+  --color-primary-hover: #222945ff;
+  --color-primary-disabled: #2a2e3aff;
+  --color-border: #323743ff;
+}
